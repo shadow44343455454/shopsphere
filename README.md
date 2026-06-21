@@ -1,25 +1,4 @@
-# My Calculator Project
+# ShopSphere
 
-This is a **simple calculator** made with HTML, CSS, and JavaScript.
-
-## Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- trigonometric calculations
-- exponential calculation
-- etc.
-
-## Website
-
-[calculator world](#)
-
-## Code Example
-
-```javascript
-function add(a, b) {
-    return a + b;
-}
-```
+## 🔗My website is live
+👉 [Click here to view the website](https://shadow44343455454.github.io/shopsphere/)
