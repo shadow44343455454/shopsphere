@@ -8,6 +8,9 @@ This is a **simple calculator** made with HTML, CSS, and JavaScript.
 - Subtraction
 - Multiplication
 - Division
+- trigonometric calculations
+- exponential calculation
+- etc.
 
 ## Website
 
